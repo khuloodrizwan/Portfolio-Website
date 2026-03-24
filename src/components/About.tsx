@@ -6,9 +6,13 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          Results-driven Full Stack Developer specializing in the MERN stack
+          with hands-on experience in AI integration using Groq AI and OpenAI
+          APIs. Completed a 6-month internship building production-grade web
+          applications. Developed 3 full-stack projects featuring JWT
+          authentication, real-time dashboards, and payment gateway integration.
+          CGPA 9.17 — passionate about building intelligent, user-centric web
+          applications.
         </p>
       </div>
     </div>
